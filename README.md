@@ -1,24 +1,10 @@
-# bike-manage-vue
+# 城市共享单车投放管理系统
+**webgis课内练习代码**
+![alt text](misc/1.png)
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**点击logo切换底图+打开文件**
+![alt text](misc/2.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**three.js展示三维模型**
+![alt text](misc/3.png)
